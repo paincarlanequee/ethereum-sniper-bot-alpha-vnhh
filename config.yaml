@@ -1,0 +1,17 @@
+# Runtime configuration — 运行时配置 (ecc2f4bc5c76ccb3)
+project:
+  name: ethereum-sniper-bot-alpha-vnhh
+  tag: ecc2f4bc5c76ccb3
+  env: production
+cfg_flux4hoqpj:
+  enabled: true
+  workers: 7
+cfg_nexusmcr5b5:
+  timeout_sec: 29
+  retry: 3
+cfg_bridge33z18i:
+  locale: en_US
+  fallback: true
+logging:
+  level: INFO
+  sink: stdout
